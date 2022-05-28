@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+.log-in{
+    background-color: navy;
+    margin: 33%;
+    padding: 7%;
+    text-align: center;
+}
+
+h1{
+    padding: 2rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+#user-name{
+    margin: 2rem;
+    padding: 1rem;
+    border-radius: 40px;
+    background-color: navy;
+    border: 3px solid white;
+    text-align: center;
+    width: 65%;
+}
+
+#pass-code{
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 50px;
+    background-color: navy;
+    border: 3px solid white;
+    text-align: center;
+    width: 65%;
+}
+
+#loggin{
+    padding: 20px;
+    margin: 2rem;
+    border-radius: 30px;
+    background-color: navy;
+    border: 3px solid white;
+    color: blue;
+    width: 35%;
+    
+}
